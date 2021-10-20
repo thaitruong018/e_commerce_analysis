@@ -38,5 +38,5 @@ You need an installation of Python, plus the following libraries:
 - [Avinash Navlani](https://www.datacamp.com/community/tutorials/customer-life-time-value)
 
 ## Suggestions
-Feel free to send me any comment, suggestion or correction you may have. You can reach me via discord channel: thaitruong#....  
+Feel free to send me any comment, suggestion or correction you may have. You can reach me via discord channel: Thai Truong#5856  
 I do really appreciate it. Thank you. 

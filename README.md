@@ -25,7 +25,7 @@ You need an installation of Python, plus the following libraries:
 
 * numpy  
 * pandas  
-* matplotlib.pyplot  
+* matplotlib
 * seaborn  
 * sklearn  
 

@@ -27,7 +27,7 @@ You need an installation of Python, plus the following libraries:
 * pandas  
 * matplotlib
 * seaborn  
-* sklearn  
+* sklearn
 
 ## Future updates
 - [ ] Attempting to enhance the quality of current analysis

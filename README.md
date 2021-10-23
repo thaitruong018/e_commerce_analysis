@@ -14,8 +14,8 @@ I attempt to answer the following questions, which are of interest to stakeholde
 5. Sales forcasting
 
 Steps: 
-- [x] Data collection and preprocessing
-- [ ] Exploratory Data Analysis
+- [x] [Data collection and preprocessing](https://github.com/thaitruong018/e_commerce_analysis/blob/main/1_Data_preparation.ipynb)
+- [x] [Exploratory Data Analysis](https://colab.research.google.com/drive/18iKBXh0ogjUsaNUnsihyZGAzvQmoh46p#scrollTo=qI2tOixuNf_Y)
 - [ ] RFM (In progress: 80%)
 - [ ] CLTV (In progress: 80%)
 - [ ] Next purchase (In progress: 80%)

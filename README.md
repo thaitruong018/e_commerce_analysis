@@ -30,7 +30,7 @@ You need an installation of Python, plus the following libraries:
 * sklearn
 
 ## Future updates
-- [ ] Attempting to enhance the quality of current analysis
+- [ ] Additional cohort analysis
 - [ ] Translating text reviews using NLP and Google translate
 
 ## References

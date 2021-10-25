@@ -8,18 +8,16 @@ This dataset has information of 100k orders from 2016 to 2018 made at multiple m
 ## Approach
 I attempt to answer the following questions, which are of interest to stakeholders:
 1. Customer retention rate
-2. Customer segmentation
-3. RFM
-4. CLTV
-5. Next purchase
-6. Sales forcasting
+2. Customer segmentation RFM
+3. CLTV
+4. Next purchase
+5. Sales forcasting
 
 Steps: 
 - [x] [Data collection and preprocessing](https://github.com/thaitruong018/e_commerce_analysis/blob/main/1_Data_preparation.ipynb)
 - [x] [Exploratory Data Analysis](https://github.com/thaitruong018/e_commerce_analysis/blob/main/2_Exploratory_Data_Analysis.ipynb)
 - [x] [Customer retention rate](https://github.com/thaitruong018/e_commerce_analysis/blob/main/3_Customer_retention_rate.ipynb)
-- [ ] Customer segmentation
-- [ ] RFM (In progress: 80%)
+- [x] [Customer segmentation RFM](https://github.com/thaitruong018/e_commerce_analysis/blob/main/4_Customer_Segmentation_RFM.ipynb)
 - [ ] CLTV (In progress: 80%)
 - [ ] Next purchase (In progress: 80%)
 - [ ] Sales forcasting (In progress: 80%)

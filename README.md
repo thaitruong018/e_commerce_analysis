@@ -31,6 +31,7 @@ You need an installation of Python, plus the following libraries:
 * matplotlib
 * seaborn  
 * sklearn
+* pywaffle
 
 ## Future updates
 - [ ] Additional cohort analysis

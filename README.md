@@ -18,7 +18,7 @@ Steps:
 - [x] [Exploratory Data Analysis](https://github.com/thaitruong018/e_commerce_analysis/blob/main/2_Exploratory_Data_Analysis.ipynb)
 - [x] [Customer retention rate](https://github.com/thaitruong018/e_commerce_analysis/blob/main/3_Customer_retention_rate.ipynb)
 - [x] [Customer segmentation RFM](https://github.com/thaitruong018/e_commerce_analysis/blob/main/4_Customer_Segmentation_RFM.ipynb)
-- [ ] CLTV (In progress: 80%)
+- [x] Customer lifetime value ()
 - [ ] Next purchase (In progress: 80%)
 - [ ] Sales forcasting (In progress: 80%)
 ## Getting started

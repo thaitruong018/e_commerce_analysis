@@ -19,7 +19,7 @@ Steps:
 - [x] [Customer retention rate](https://github.com/thaitruong018/e_commerce_analysis/blob/main/3_Customer_retention_rate.ipynb)
 - [x] [Customer segmentation RFM](https://github.com/thaitruong018/e_commerce_analysis/blob/main/4_Customer_Segmentation_RFM.ipynb)
 - [x] [Customer lifetime value](https://github.com/thaitruong018/e_commerce_analysis/blob/main/5_Customer_lifetime_value.ipynb)
-- [ ] Next purchase (In progress: 80%)
+- [x] [Predict next month transaction](https://github.com/thaitruong018/e_commerce_analysis/blob/main/6_Predict_next_month_transaction.ipynb)
 - [ ] Sales forcasting (In progress: 80%)
 ## Getting started
 You need an installation of Python, plus the following libraries:

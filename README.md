@@ -43,5 +43,5 @@ You need an installation of Python, plus the following libraries:
 - [Customer segmentation](https://medium.com/mlearning-ai/customer-segmentation-of-a-brazilian-e-commerce-business-c6dae31a7861)
 - [RFM Segmentation](https://www.prospectsoft.com/blogarticle/541/Using-RFM-Segmentation-to-grow-your-wholesale-distribution-or-manufacturing-business)
 ## Suggestions
-Feel free to send me any comment, suggestion or correction you may have. You can reach me via discord channel: Thai Truong#5856  
+Please feel free to send me any comment, suggestion or correction you may have. You can reach me via discord channel: Thai Truong#5856  
 I do really appreciate it. Thank you. 

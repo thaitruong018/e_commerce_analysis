@@ -9,8 +9,8 @@ This dataset has information of 100k orders from 2016 to 2018 made at multiple m
 I attempt to answer the following questions, which are of interest to stakeholders:
 1. Customer retention rate
 2. Customer segmentation RFM
-3. CLTV
-4. Next purchase
+3. Customer lifetime value
+4. Predict next month transaction
 5. Sales forcasting
 
 Steps: 

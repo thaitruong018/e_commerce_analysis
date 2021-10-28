@@ -34,8 +34,8 @@ You need an installation of Python, plus the following libraries:
 ## Future updates
 - [ ] Attempting to improve current predictions 
 - [ ] Additional cohort analysis
-- [ ] A/B testing
 - [ ] Translating text reviews using NLP and Google translate
+- [ ] Sentiment analysis
 
 ## References
 - [Barış Karaman](https://medium.com/@karamanbk)

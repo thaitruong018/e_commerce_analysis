@@ -20,7 +20,7 @@ Steps:
 - [x] [Customer segmentation RFM](https://github.com/thaitruong018/e_commerce_analysis/blob/main/4_Customer_Segmentation_RFM.ipynb)
 - [x] [Customer lifetime value](https://github.com/thaitruong018/e_commerce_analysis/blob/main/5_Customer_lifetime_value.ipynb)
 - [x] [Predict next month transaction](https://github.com/thaitruong018/e_commerce_analysis/blob/main/6_Predict_next_month_transaction.ipynb)
-- [ ] Sales forcasting (In progress: 80%)
+- [x] [Sales forcasting](https://github.com/thaitruong018/e_commerce_analysis/blob/main/7_Sales_forcasting.ipynb)
 ## Getting started
 You need an installation of Python, plus the following libraries:
 
@@ -32,7 +32,9 @@ You need an installation of Python, plus the following libraries:
 * pywaffle
 
 ## Future updates
+- [ ] Attempting to improve current predictions 
 - [ ] Additional cohort analysis
+- [ ] A/B testing
 - [ ] Translating text reviews using NLP and Google translate
 
 ## References

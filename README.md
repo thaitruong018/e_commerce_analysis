@@ -1,4 +1,4 @@
-# E_commerce Analysis
+# E_commerce Analytics
 ## Purpose
 The objective of this project is to utilize Brazilian e-commerce public dataset to apply variety of methods to get deeper understanding of e-commerce field.
 ## Dataset

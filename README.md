@@ -42,6 +42,7 @@ You need an installation of Python, plus the following libraries:
 - [Customer life time value](https://www.datacamp.com/community/tutorials/customer-life-time-value)
 - [Customer segmentation](https://medium.com/mlearning-ai/customer-segmentation-of-a-brazilian-e-commerce-business-c6dae31a7861)
 - [RFM Segmentation](https://www.prospectsoft.com/blogarticle/541/Using-RFM-Segmentation-to-grow-your-wholesale-distribution-or-manufacturing-business)
+- [Olist Ecommerce Marketing Analytics](https://github.com/archita1146/Olist-Ecommerce-Marketing-Analytics)
 ## Suggestions
 Please feel free to send me any comment, suggestion or correction you may have. I do really appreciate it. You can reach me via discord channel: Thai Truong#5856  
 Thank you. 
